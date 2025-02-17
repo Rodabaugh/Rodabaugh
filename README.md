@@ -3,4 +3,5 @@
 - 📚 I'm currently working on DigitalShelf: A backend server designed to keep track of your physical media.
 - 🐧 Linux is my favorite operating system.
 - 🤖 I find automation very satisfying.
+- 🏠 Homelabs are awesome.
 - 🌐 Check out my blog at https://erikrodabaugh.com
